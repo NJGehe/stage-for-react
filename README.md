@@ -1,6 +1,6 @@
 # stage-for-react
 
-**description**:
+**概述**:
 
     build a stage for react, which includes necessary modules and file structure.
     
@@ -16,7 +16,7 @@ add later...
 add later...
 ```
 
-**contact me**
+**有问题，可以邮件联系我**
 
     Author: GeHe
 
